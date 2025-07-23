@@ -1,0 +1,5 @@
+pandas
+seaborn
+scikit-learn==1.7.1
+xgboost
+jupyter

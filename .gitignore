@@ -1,0 +1,7 @@
+# Ignore data and notebook checkpoints
+data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
